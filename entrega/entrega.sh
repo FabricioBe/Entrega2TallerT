@@ -1,4 +1,4 @@
-# EntregaTallerT Fabricio Besares - 313364
+# Entrega2TallerT Fabricio Besares - 313364
 #!/bin/bash
 
 Opcion1() {
